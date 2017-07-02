@@ -1,0 +1,2 @@
+# Nuclear_Alarm_System
+This project is basically designed where there is high temperature and employees work in that high temperature. This project will triggrer the alarm when the temprature of the department raises high. we can use this system for more the one department and keep a check on each department for temperature rise. You can access my portal using User name :- 'admin' and Password :- 'admin'
